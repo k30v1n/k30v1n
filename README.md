@@ -1,5 +1,5 @@
 ### Hi there 👋🏽
-I have more than 10y as a software developer working as a full stack engineer but recently on the past 5y focusing on backend engineering and cloud solutions.
+I have more than 10y as a software developer working, with expecience as a full stack engineer but on the past 5y focusing on backend engineering and cloud solutions.
 - ✨ My main programming language is `C#`, second is `Javascript/Typescript`
 - 🧑🏽‍💻 Currently learning more about some backend solutions and improvements, like `Cloud Solutions`, `gRPC`, `De-Coupled Architectures`
 - 🔭 Looking forward to collaborate on `C#` or `Javascript/Typescript` projects
